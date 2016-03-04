@@ -1,1 +1,3 @@
-# ucimo-gugl-mape
+# Učimo Google mape
+
+JavaScript API, stilizovanje, geolokacija...
